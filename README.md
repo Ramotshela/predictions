@@ -1,0 +1,1 @@
+This Python script is designed to predict the final grades (G3) of students based on several input features such as first period grades (G1), second period grades (G2), study time, failures, and absences. The script uses a linear regression model from the scikit-learn library to train on a dataset and make predictions. The best-performing model is saved to a file for later use.
